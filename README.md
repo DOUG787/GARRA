@@ -1,4 +1,4 @@
-# 🦾 GARRA — Atendimento Inteligente via Totem
+# 🦾 GARRA — Atendimento Inteligente 
 
 O **GARRA** é um aplicativo desenvolvido para **otimizar o atendimento em grandes lojas**, atuando como um **totem interativo** que realiza uma **pré-filtragem das necessidades do cliente** e gera um **relatório automatizado** para o atendente final.  
 O resultado é um **atendimento mais ágil, personalizado e eficiente**.
